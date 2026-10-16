@@ -1,0 +1,12 @@
+{
+  "issues": 1000,
+  "closed": 782,
+  "open": 218,
+  "median_cycle_days": 0.92,
+  "p90_cycle_days": 10.9,
+  "median_comments": 0.0,
+  "share_open_over_180d": 0.0,
+  "top_label": "Bug",
+  "median_open_age_labeled": 9.7,
+  "median_open_age_unlabeled": 15.6
+}

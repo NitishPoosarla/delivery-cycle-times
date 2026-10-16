@@ -1,0 +1,13 @@
+labels,issues,med_cycle
+Bug,397,4.16
+Awaiting Review,100,7.3
+Testing,92,0.66
+Docs,85,2.13
+IO CSV,58,4.12
+Arrow,57,5.22
+Indexing,47,6.29
+Dtype Conversions,44,4.3
+Enhancement,44,4.55
+Sparse,44,0.63
+CI,43,2.28
+Missing-data,39,2.77
